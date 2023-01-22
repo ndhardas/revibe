@@ -1,0 +1,12 @@
+.logo-home {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 125px;
+    line-height: normal;
+    text-align: center;
+    
+    background: conic-gradient(from 258.79deg at 47.95% 156.58%, #F4002C -13.37deg, #F0AD02 21.67deg, #61D0FF 131.14deg, #A402F0 178.01deg, #EB083E 194.67deg, #F4002C 346.63deg, #F0AD02 381.67deg);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
